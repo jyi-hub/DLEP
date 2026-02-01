@@ -1,5 +1,7 @@
 # DLEP
 
+deeplearning epidemic predicate
+
 兰大大气校创，深度学习疫情预测项目，5人
 
 第一阶段目标：寒假期间复现李师姐的文章
