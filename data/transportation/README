@@ -1,0 +1,10 @@
+# 交通连接数据
+
+数据来源和方法：
+
+- 铁路、水路、公路来自OSM  https://blog.csdn.net/qq_912917507/article/details/104274695  
+- 航空数据来自Ctrip app  https://www.heywhale.com/mw/project/65f1a8b693f67e9a14b56535
+
+进度
+
+尝试下载beijing数据成功，2月1日
