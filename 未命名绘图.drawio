@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="esWUcya8TKDOmJoZVUOt-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;strokeWidth=2;strokeColor=#007FFF;" value="" vertex="1">
+          <mxGeometry height="567.5" width="370" x="420" y="152.5" as="geometry" />
+        </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC00;shadow=0;glass=1;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="190" width="347.5" x="12.5" y="220" as="geometry" />
         </mxCell>
@@ -37,8 +40,11 @@
         <mxCell id="8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=13" value="气候效应量化&lt;br&gt;DLNM滞后非线性模型&lt;br&gt;小波多尺度分解" vertex="1">
           <mxGeometry height="85" width="145" x="140" y="1030" as="geometry" />
         </mxCell>
-        <mxCell id="9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=13;arcSize=22;" value="多视图动态图构建&lt;br&gt;地理/流动/传播关联融合&lt;br&gt;数据同化技术" vertex="1">
-          <mxGeometry height="95" width="150" x="1010" y="800" as="geometry" />
+        <mxCell id="esWUcya8TKDOmJoZVUOt-104" edge="1" parent="1" source="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="esWUcya8TKDOmJoZVUOt-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontSize=13;arcSize=22;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;多视图动态图构建&lt;br&gt;数据同化技术&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="291.25" x="450" y="355" as="geometry" />
         </mxCell>
         <mxCell id="10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="开展多地域、多季节的&lt;br&gt;极端气候下预测动态变化研究" vertex="1">
           <mxGeometry height="235" width="280" x="1105" y="5" as="geometry" />
@@ -100,7 +106,7 @@
         <mxCell id="esWUcya8TKDOmJoZVUOt-56" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="esWUcya8TKDOmJoZVUOt-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="esWUcya8TKDOmJoZVUOt-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;区域内传染病时空传播特征的描述性分析&lt;/span&gt;" vertex="1">
+        <mxCell id="esWUcya8TKDOmJoZVUOt-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;align=center;strokeColor=#36393d;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;区域内传染病时空传播特征的描述性分析&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="180" y="560" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;全局/局部莫兰指数&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -109,35 +115,32 @@
         <mxCell id="esWUcya8TKDOmJoZVUOt-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;小波多尺度分解、Spearman相关系数&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="140" x="30" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="esWUcya8TKDOmJoZVUOt-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;传染病传播的关键影响因子识别&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="esWUcya8TKDOmJoZVUOt-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;align=center;strokeColor=#36393d;" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;传染病传播的关键影响因子识别&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="160" x="180" y="635" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;分布式滞后非线性模型（DLNM）&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="140" x="30" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="esWUcya8TKDOmJoZVUOt-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;strokeWidth=2;strokeColor=#007FFF;" value="" vertex="1">
-          <mxGeometry height="567.5" width="370" x="420" y="152.5" as="geometry" />
-        </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="330" x="440" y="90" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;StemGNN、GAT等&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="618.75" y="310" as="geometry" />
+          <mxGeometry height="47.5" width="140" x="618.75" y="292.5" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PyTorch Geometric&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="445" y="310" as="geometry" />
+          <mxGeometry height="47.5" width="140" x="445" y="292.5" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-77" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="esWUcya8TKDOmJoZVUOt-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;基线模型&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="531.88" y="627.5" as="geometry" />
+          <mxGeometry height="50" width="140" x="531.88" y="657.5" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;模型评估与比较&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;（MAE/RMSE/R²指标）&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="300" x="450" y="390" as="geometry" />
+          <mxGeometry height="60" width="300" x="450" y="430" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;机器学习&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="451.25" y="545" as="geometry" />
+          <mxGeometry height="50" width="140" x="451.25" y="575" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-84" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="esWUcya8TKDOmJoZVUOt-71">
           <mxGeometry relative="1" as="geometry" />
@@ -146,25 +149,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;时空图神经网络&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="42.5" width="212.5" x="495.63" y="167.5" as="geometry" />
+          <mxGeometry height="42.5" width="212.5" x="495.63" y="160" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;时序深度学习&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="621.25" y="545" as="geometry" />
+          <mxGeometry height="50" width="140" x="621.25" y="575" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;模型框架&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="445" y="250" as="geometry" />
+          <mxGeometry height="50" width="140" x="445" y="232.5" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;模型设计&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="615" y="250" as="geometry" />
+          <mxGeometry height="50" width="140" x="615" y="232.5" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-78" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.44;entryY=1.068;entryDx=0;entryDy=0;entryPerimeter=0;" target="esWUcya8TKDOmJoZVUOt-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;color: rgb(18, 18, 18); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;ARIMAX、随机森林&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="451.25" y="480" as="geometry" />
+          <mxGeometry height="50" width="140" x="451.25" y="510" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;LSTM&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="621.25" y="480" as="geometry" />
+          <mxGeometry height="50" width="140" x="621.25" y="510" as="geometry" />
         </mxCell>
         <mxCell id="esWUcya8TKDOmJoZVUOt-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-family: Verdana; font-weight: 700; text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;STGNN的设计与训练&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="250" x="476.88" y="100" as="geometry" />
