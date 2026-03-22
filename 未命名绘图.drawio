@@ -1,116 +1,176 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="0_NPwYZNW3rpCoJCv20T">
-    <mxGraphModel dx="1216" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2616" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" value="气候变化驱动下传染病时空传播的图网络建模研究&lt;br&gt;技术路线图" vertex="1">
-          <mxGeometry height="45" width="760" x="320" y="15" as="geometry" />
+        <mxCell id="esWUcya8TKDOmJoZVUOt-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC00;shadow=0;glass=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="190" width="347.5" x="12.5" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="构建气候变化驱动下传染病&lt;br&gt;时空数据的标准化数据库" vertex="1">
-          <mxGeometry height="45" width="315" x="50" y="75" as="geometry" />
+        <mxCell id="esWUcya8TKDOmJoZVUOt-60" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;" target="esWUcya8TKDOmJoZVUOt-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-96" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" target="esWUcya8TKDOmJoZVUOt-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;strokeWidth=2;strokeColor=#00CC00;" value="" vertex="1">
+          <mxGeometry height="262.5" width="370" y="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" value="气候变化驱动下传染病时空传播的图网络建模研究&lt;br&gt;技术路线图" vertex="1">
+          <mxGeometry height="45" width="760" x="130" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Comic Sans MS&quot;&gt;构建气象、疫情、地理空间与社会学数据融合的标准化数据库&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="323.75" x="20" y="90" as="geometry" />
         </mxCell>
         <mxCell id="4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=13" value="典型传染病&lt;br&gt;（登革热、疟疾、流感等）" vertex="1">
-          <mxGeometry height="75" width="125" x="65" y="125" as="geometry" />
+          <mxGeometry height="75" width="125" x="-150" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=13" value="多源异构数据集&lt;br&gt;NASA气象遥感数据&lt;br&gt;传染病监测数据&lt;br&gt;社会经济数据&lt;br&gt;行政边界数据" vertex="1">
-          <mxGeometry height="95" width="135" x="205" y="115" as="geometry" />
+        <mxCell id="5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82B366;fontSize=13" value="多源异构数据集&lt;br&gt;气象遥感数据&lt;br&gt;传染病监测数据&lt;br&gt;社会经济数据&lt;br&gt;行政边界数据" vertex="1">
+          <mxGeometry height="95" width="135" x="-150" y="415" as="geometry" />
         </mxCell>
         <mxCell id="6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="构建基于STGNN的传染病&lt;br&gt;时空传播预测模型" vertex="1">
-          <mxGeometry height="235" width="355" x="390" y="75" as="geometry" />
+          <mxGeometry height="235" width="355" x="820" y="850" as="geometry" />
         </mxCell>
         <mxCell id="7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=13" value="STGNN理论&lt;br&gt;STGCN、StemGNN等先进架构" vertex="1">
-          <mxGeometry height="70" width="145" x="410" y="115" as="geometry" />
+          <mxGeometry height="70" width="145" x="763.75" y="747.5" as="geometry" />
         </mxCell>
         <mxCell id="8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=13" value="气候效应量化&lt;br&gt;DLNM滞后非线性模型&lt;br&gt;小波多尺度分解" vertex="1">
-          <mxGeometry height="85" width="145" x="410" y="195" as="geometry" />
+          <mxGeometry height="85" width="145" x="140" y="1030" as="geometry" />
         </mxCell>
-        <mxCell id="9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=13" value="多视图动态图构建&lt;br&gt;地理/流动/传播关联融合&lt;br&gt;数据同化技术" vertex="1">
-          <mxGeometry height="95" width="150" x="575" y="115" as="geometry" />
+        <mxCell id="9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=13;arcSize=22;" value="多视图动态图构建&lt;br&gt;地理/流动/传播关联融合&lt;br&gt;数据同化技术" vertex="1">
+          <mxGeometry height="95" width="150" x="1010" y="800" as="geometry" />
         </mxCell>
         <mxCell id="10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="开展多地域、多季节的&lt;br&gt;极端气候下预测动态变化研究" vertex="1">
-          <mxGeometry height="235" width="280" x="775" y="75" as="geometry" />
+          <mxGeometry height="235" width="280" x="1105" y="5" as="geometry" />
         </mxCell>
         <mxCell id="11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=13" value="依托真实数据&lt;br&gt;开展有效性检验&lt;br&gt;与参数校验工作" vertex="1">
-          <mxGeometry height="75" width="240" x="795" y="115" as="geometry" />
+          <mxGeometry height="75" width="240" x="1080" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=13" value="极端气候鲁棒性测试&lt;br&gt;（极端高温/强降水事件）" vertex="1">
-          <mxGeometry height="65" width="240" x="795" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="分析和归纳传染病时空传播&lt;br&gt;动态变化影响因素与规律" vertex="1">
-          <mxGeometry height="185" width="325" x="45" y="340" as="geometry" />
-        </mxCell>
-        <mxCell id="14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D79B00;fontSize=13" value="统计方法&lt;br&gt;（相关性分析、假设检验）&lt;br&gt;流行病学方法" vertex="1">
-          <mxGeometry height="85" width="135" x="65" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D79B00;fontSize=13" value="机器学习方法&lt;br&gt;（双轨因果模型、特征重要性评估）" vertex="1">
-          <mxGeometry height="85" width="135" x="215" y="380" as="geometry" />
+        <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=13;align=center;rotation=90;" value="" vertex="1">
+          <mxGeometry height="130" width="522.81" x="623.6" y="393.6" as="geometry" />
         </mxCell>
         <mxCell id="16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="STGNN-DLNM优势互补的&lt;br&gt;传染病时空传播预测模型" vertex="1">
-          <mxGeometry height="145" width="340" x="390" y="340" as="geometry" />
+          <mxGeometry height="145" width="340" x="331.88" y="870" as="geometry" />
         </mxCell>
         <mxCell id="17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=13" value="模型搭建与训练&lt;br&gt;PyTorch Geometric Temporal框架" vertex="1">
-          <mxGeometry height="65" width="145" x="410" y="380" as="geometry" />
+          <mxGeometry height="65" width="145" x="344.38" y="950" as="geometry" />
         </mxCell>
         <mxCell id="18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=13" value="模型评估&lt;br&gt;MAE/RMSE/R²指标&lt;br&gt;准确性、稳定性、鲁棒性" vertex="1">
-          <mxGeometry height="65" width="135" x="575" y="380" as="geometry" />
+          <mxGeometry height="65" width="135" x="509.38" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=3;fontSize=14;align=center;verticalAlign=middle;fontStyle=1" value="为公共卫生早期预警&lt;br&gt;提供智能决策参考" vertex="1">
-          <mxGeometry height="125" width="270" x="760" y="340" as="geometry" />
+        <mxCell id="19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=3;fontSize=14;align=center;verticalAlign=middle;fontStyle=1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开展地域多季节的疫情动态演变预警&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="140" x="815" y="80" as="geometry" />
         </mxCell>
         <mxCell id="20" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=13" value="相互验证" vertex="1">
-          <mxGeometry height="30" width="90" x="845" y="480" as="geometry" />
+          <mxGeometry height="30" width="90" x="1092.5" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="21" edge="1" parent="1" source="3" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="6" value="">
+        <mxCell id="esWUcya8TKDOmJoZVUOt-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;气象时空数据&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;（温度、湿度、风速等）&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="200" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;公共卫生数据&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（疫情公开数据）&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="30" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;社会经济数据&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="30" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;行政边界数据&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="200" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;人口流动数据&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="30" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;多源异构数据&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="42.5" width="212.5" x="80" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;地理空间数据&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="200" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-99" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" target="esWUcya8TKDOmJoZVUOt-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="22" edge="1" parent="1" source="6" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="10" value="">
+        <mxCell id="esWUcya8TKDOmJoZVUOt-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;strokeWidth=2;strokeColor=#FF9933;" value="" vertex="1">
+          <mxGeometry height="200" width="370" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;shadow=0;glass=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="180" width="347.5" x="12.5" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;分析和归纳疫病时空传播&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;动态演变影响因素与规律&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="315" x="28.75" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-56" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="esWUcya8TKDOmJoZVUOt-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="23" edge="1" parent="1" source="3" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="13" value="">
+        <mxCell id="esWUcya8TKDOmJoZVUOt-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;区域内传染病时空传播特征的描述性分析&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="180" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;全局/局部莫兰指数&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="30" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;小波多尺度分解、Spearman相关系数&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="30" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;传染病传播的关键影响因子识别&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="180" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;分布式滞后非线性模型（DLNM）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="30" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;strokeWidth=2;strokeColor=#007FFF;" value="" vertex="1">
+          <mxGeometry height="567.5" width="370" x="420" y="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=3;fontSize=14;align=center;verticalAlign=top;fontStyle=1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="330" x="440" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;StemGNN、GAT等&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="618.75" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;PyTorch Geometric&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="445" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-77" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="esWUcya8TKDOmJoZVUOt-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="24" edge="1" parent="1" source="13" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="16" value="">
+        <mxCell id="esWUcya8TKDOmJoZVUOt-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;基线模型&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="531.88" y="627.5" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;模型评估与比较&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;（MAE/RMSE/R²指标）&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="450" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;机器学习&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="451.25" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-84" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="esWUcya8TKDOmJoZVUOt-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="25" edge="1" parent="1" source="16" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="19" value="">
+        <mxCell id="esWUcya8TKDOmJoZVUOt-85" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="esWUcya8TKDOmJoZVUOt-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="26" edge="1" parent="1" source="10" style="endArrow=block;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="19" value="">
+        <mxCell id="esWUcya8TKDOmJoZVUOt-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;时空图神经网络&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="42.5" width="212.5" x="495.63" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;时序深度学习&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="621.25" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;模型框架&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="445" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;模型设计&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="615" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-78" edge="1" parent="1" source="esWUcya8TKDOmJoZVUOt-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.44;entryY=1.068;entryDx=0;entryDy=0;entryPerimeter=0;" target="esWUcya8TKDOmJoZVUOt-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="esWUcya8TKDOmJoZVUOt-26" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="320" as="sourcePoint" />
-            <mxPoint x="570" y="270" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;color: rgb(18, 18, 18); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;ARIMAX、随机森林&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="451.25" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="esWUcya8TKDOmJoZVUOt-27" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="320" as="sourcePoint" />
-            <mxPoint x="570" y="270" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;LSTM&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="621.25" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="esWUcya8TKDOmJoZVUOt-28" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="320" as="sourcePoint" />
-            <mxPoint x="570" y="270" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-family: Verdana; font-weight: 700; text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;STGNN的设计与训练&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="476.88" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="esWUcya8TKDOmJoZVUOt-29" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" target="esWUcya8TKDOmJoZVUOt-30" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="320" as="sourcePoint" />
-            <mxPoint x="570" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="esWUcya8TKDOmJoZVUOt-30" parent="1" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
-          <mxGeometry height="80" width="100" x="520" y="230" as="geometry" />
-        </mxCell>
-        <mxCell id="esWUcya8TKDOmJoZVUOt-31" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="80" as="sourcePoint" />
-            <mxPoint x="570" y="30" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="esWUcya8TKDOmJoZVUOt-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px; font-weight: 700;&quot;&gt;为公共卫生早期预警&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 700;&quot;&gt;与政策制定&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; font-weight: 700;&quot;&gt;提供智能决策参考&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="322.5" width="110" x="830" y="275" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
